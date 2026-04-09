@@ -1,0 +1,24 @@
+{
+  "name": "computer-science-frontend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WalleQQ/computer-science-frontend.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WalleQQ/computer-science-frontend/issues"
+  },
+  "homepage": "https://github.com/WalleQQ/computer-science-frontend#readme",
+  "devDependencies": {
+    "vitest": "^4.1.3"
+  }
+}
